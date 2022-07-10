@@ -38,6 +38,6 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/MatheusRitchielle/MatheusRitchielle/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/MatheusRitchielle/MatheusRitchielle/blob/dist/snake.svg" alt="Snake animation" />
 
 ###
