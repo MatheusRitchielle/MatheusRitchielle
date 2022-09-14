@@ -1,4 +1,4 @@
-<h2 align="center">Hi! My name is Matheus Richielle</h2>
+<h2 align="center">Hi! My name is Matheus Ritchielle</h2>
 
 ###
 
