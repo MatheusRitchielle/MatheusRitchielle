@@ -4,7 +4,8 @@
 
 ###
 
-<p align="left">I recently completed a 5 month residency in Full Stack Web and Mobile Development, learning HTML, CSS, JavaScript, Java, Spring Boot, React, React-Native, SQL, PostgreSQL and Android.</p>
+<p align="left">I recently completed a 5 month residency in Full Stack Web and Mobile Development, learning HTML, CSS, JavaScript, Java, Spring Boot, React, React-Native, SQL, PostgreSQL and Android.
+I am currently studying Software Engineering.</p>
 
 ###
 
